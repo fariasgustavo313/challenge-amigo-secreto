@@ -40,4 +40,5 @@ function sortearAmigo() {
         amigoSeleccionado = amigos[indiceSeleccionado];
         resultadoSorteo.innerHTML = `El amigo secreto es: ${amigoSeleccionado}`;
     }
+    
 }
